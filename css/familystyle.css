@@ -1,0 +1,119 @@
+/* banner section1 */
+.container-family1{
+	background: #FFE9D1;
+	background-size: contain;
+	height: 800px;
+	width: 100%;
+	border-bottom: 1.5px solid #000000;
+	display: flex;
+}
+.wrapper-text10{
+	padding-left: 150px;
+}
+.wrapper-text10 .text10{
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.wrapper-text10 h1{
+	font-size: 34px;
+	text-align: center;
+}
+.wrapper-text10 p{
+	padding-top: 30px;
+	font-size: 16px;
+}
+.wrapper-image10 img{
+	width: 550px;
+	position: relative;
+	top: 50%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	border-radius: 10px;
+	border-bottom: 1.5px solid #000000;
+	border-right: 1.5px solid #000000;
+}
+
+
+/* banner section2 */
+
+.container-family2{
+	background: #FFE9D1;
+	background-size: contain;
+	border-bottom: 1.5px solid #000000;
+	height: 100%;
+	width: 100%;
+}
+.family-title{
+	font-size: 28px;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+	text-align: center;
+}
+.family-member1{
+	display: flex;
+	justify-content: space-evenly;
+	padding-bottom: 10vh;
+}
+.left-member{
+	display: flex;
+	padding-top: 5px;
+	padding-left: 5px;
+	border-radius: 5px;
+	border-bottom: 1.5px solid #000000;
+}
+.right-member{
+	display: flex;
+	padding-top: 5px;
+	padding-left: 5px;
+	border-radius: 5px;
+	border-bottom: 1.5px solid #000000;
+}
+.left-member .image-member img{
+	width: 200px;
+	align-items: center;
+}
+.right-member .image-member img{
+	width: 200px;
+	align-items: center;
+}
+.left-member .text-member{
+	padding: 20px;
+}
+.right-member .text-member{
+	padding: 20px;
+}
+.left-member .text-member h1{
+	text-align: start;
+}
+.right-member .text-member h1{
+	text-align: start;
+}
+.left-member .text-member p{
+	text-align: start;
+	font-size: 16px;
+}
+.right-member .text-member p{
+	text-align: start;
+	font-size: 16px;
+}
+
+
+
+
+
+
+.footer{
+	height: 100px;
+	background: #651111;
+	box-shadow: inset -5px -5px 10px #470c0c,
+            inset 5px 5px 10px #831616;
+
+}
+.footer h1{
+	padding-top: 35px;
+	text-align: center;
+	font-size: 20px;
+	color: #F9CF63;
+}
