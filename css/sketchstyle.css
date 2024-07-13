@@ -1,0 +1,315 @@
+.container10{
+    width: 100%;
+    height: 2150px;
+    background: #FFE9D1;
+}
+.container10 .title-container{
+    padding-top: 100px;
+    text-align: center;
+}
+.container10 .sketch{
+    top: 40%;
+    left: 12.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch img{
+    border-radius: 10px;
+}
+.container10 .sketch1{
+    top: 40%;
+    left: 32.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch1 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch1 img{
+    border-radius: 10px;
+}
+.container10 .sketch2{
+    top: 40%;
+    left: 52.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch2 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch2 img{
+    border-radius: 10px;
+}
+.container10 .sketch3{
+    top: 40%;
+    left: 72.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch3 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch3 img{
+    border-radius: 10px;
+}
+.container10 .sketch4{
+    top: 90%;
+    left: 12.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch4 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch4 img{
+    border-radius: 10px;
+}
+.container10 .sketch5{
+    top: 90%;
+    left: 32.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch5 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch5 img{
+    border-radius: 10px;
+}
+.container10 .sketch6{
+    top: 90%;
+    left: 52.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch6 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch6 img{
+    border-radius: 10px;
+}
+.container10 .sketch7{
+    top: 90%;
+    left: 72.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch7 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch7 img{
+    border-radius: 10px;
+}
+.container10 .sketch8{
+    top: 140%;
+    left: 12.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch8 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch8 img{
+    border-radius: 10px;
+}
+.container10 .sketch9{
+    top: 140%;
+    left: 32.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch9 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch9 img{
+    border-radius: 10px;
+}
+.container10 .sketch10{
+    top: 140%;
+    left: 52.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch10 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch10 img{
+    border-radius: 10px;
+}
+.container10 .sketch11{
+    top: 140%;
+    left: 72.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch11 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch11 img{
+    border-radius: 10px;
+}
+
+
+
+.container10 .sketch12{
+    top: 190%;
+    left: 12.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch12 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch12 img{
+    border-radius: 10px;
+}
+.container10 .sketch13{
+    top: 190%;
+    left: 32.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch13 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch13 img{
+    border-radius: 10px;
+}
+.container10 .sketch14{
+    top: 190%;
+    left: 52.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch14 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch14 img{
+    border-radius: 10px;
+}
+.container10 .sketch15{
+    top: 190%;
+    left: 72.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch15 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch15 img{
+    border-radius: 10px;
+}
+
+
+.container10 .sketch16{
+    top: 240%;
+    left: 12.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch16 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch16 img{
+    border-radius: 10px;
+}
+.container10 .sketch17{
+    top: 240%;
+    left: 32.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch17 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch17 img{
+    border-radius: 10px;
+}
+.container10 .sketch18{
+    top: 240%;
+    left: 52.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch18 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch18 img{
+    border-radius: 10px;
+}
+.container10 .sketch19{
+    top: 240%;
+    left: 72.5%;
+    position: absolute;
+    text-align: center;
+}
+.container10 .sketch19 h1{
+    padding-top: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+.container10 .sketch19 img{
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+.footer{
+	height: 100px;
+	background: #651111;
+	box-shadow: inset -5px -5px 10px #470c0c,
+            inset 5px 5px 10px #831616;
+
+}
+.footer h1{
+	padding-top: 35px;
+	text-align: center;
+	font-size: 20px;
+	color: #F9CF63;
+}

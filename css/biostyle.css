@@ -1,0 +1,282 @@
+.biography {
+	background: #FFE9D1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+.biography .overlap-group-wrapper {
+    width: 100%;
+    height: 1350px;
+}
+.biography .overlap-group {
+    position: relative;
+    height: 1350px;
+    background-size: contain;
+    background-position: 50% 50%;
+  }
+  .biography .overlap {
+    position: absolute;
+    width: 1000px;
+    height: 250px;
+    top: 5%;
+    left: 20%;
+    background-color: #000000b2;
+    border-radius: 5px;
+  }
+  .biography .rectangle {
+    position: absolute;
+    width: 900px;
+    height: 225px;
+    top: 5%;
+	left: 5%;
+    background-color: #fff4e8e6;
+    box-shadow: 0px 4px 4px #1e1e1e;
+  }
+  .biography .img {
+    position: absolute;
+    width: 200px;
+    height: 225px;
+    top: 5%;
+    left: 5%;
+    object-fit: cover;
+  }
+  .biography .rectangle-2 {
+    position: absolute;
+    width: 700px;
+    height: 225px;
+    top: 5%;
+    left: 25%;
+    object-fit: cover;
+  }
+  .biography .text-wrapper {
+    position: absolute;
+    width: 788px;
+    top: 35%;
+    left: 20%;
+    text-shadow: 0px 4px 4px #000000;
+    font-family: "Satisfy-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .biography .div {
+    position: absolute;
+    width: 1000px;
+    height: 913px;
+    top: 25%;
+    left: 20%;
+  }
+  .biography .rectangle-3 {
+    position: absolute;
+    width: 500px;
+    height: 904px;
+    top: 0;
+    left: 0;
+    background-color: #fff4e8cc;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px #000000;
+  }
+  .biography .rectangle-4 {
+    position: absolute;
+    width: 500px;
+    height: 904px;
+    top: 0;
+    left: 50%;
+    background-color: #d4baa2cc;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px #000000;
+  }
+  .biography .text-wrapper-2 {
+    position: absolute;
+    padding-left: 20px;
+    top: 5%;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-3 {
+    position: absolute;
+    padding-left: 20px;
+    top: 13%;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .while-living-in {
+    position: absolute;
+    padding-left: 20px;
+    top: 18%;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .biography .text-wrapper-9 {
+    position: absolute;
+    padding: 20px;
+    top: 32%;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .biography .on-june-jos {
+    position: absolute;
+    padding: 20px;
+    top: 37%;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-4 {
+    position: absolute;
+    padding-left: 20px;
+    top: 53%;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .p {
+    position: absolute;
+    padding-left: 20px;
+    top: 58%;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-5 {
+    top:  73%;
+    left: 0;
+    position: absolute;
+    padding-left: 20px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-6 {
+    position: absolute;
+    padding-left: 20px;
+    top: 78%;
+    left: 0%;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .rizal-s-parents {
+    top: 13%;
+    left: 50%;
+    position: absolute;
+    padding-left: 20px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .jose-rizal-s-father {
+    position: absolute;
+    padding-left: 20px;
+    top: 18%;
+    left: 50%;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-7 {
+    top: 47%;
+    left: 50%;
+    position: absolute;
+    padding-left: 20px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .biography .text-wrapper-8 {
+    position: absolute;
+    padding-left: 20px;
+    top: 52%;
+    left: 50%;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+
+
+.footer{
+	height: 100px;
+	background: #651111;
+	box-shadow: inset -5px -5px 10px #470c0c,
+            inset 5px 5px 10px #831616;
+
+}
+.footer h1{
+	padding-top: 35px;
+	text-align: center;
+	font-size: 20px;
+	color: #F9CF63;
+}
